@@ -1,7 +1,7 @@
 # Utils
 * __SingleCLickListener__<br/>
   An abstract class to prevent click more than once within a certain time interval<br/>
-  __Example__
+  __Example__<br/>
   ```
   txtEdan.setOnClickListener(new SingleClickListener() {
                 @Override
