@@ -1,7 +1,7 @@
 
 public class Example{
 
-	public Example() {
+    public Example() {
     }	
 
 	txtEdan.setOnClickListener(new SingleClickListener() {
